@@ -1,0 +1,2 @@
+rootProject.name='SharedPreference Demo in Kotlin'
+include ':app'

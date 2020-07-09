@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPreference Demo in Kotlin</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_login_id">Enter Login Id</string>
+    <string name="keep_me_logged_in">Keep Me Logged In!!</string>
+    <string name="show_login_details">Show Login Details</string>
+</resources>
